@@ -1,0 +1,26 @@
+header {
+    border-bottom: 1px solid #dee2e6;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+    padding: 10px;
+    flex: 1 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    background-color: #ffffff;
+    position: fixed;
+    width: 1440px;
+    margin: 0 auto;
+
+    h1 {
+        display: inline;
+        font-family: "Noto Serif JP";
+    }
+
+    input {
+        height: 18px;
+        padding: 10px 10px;
+        border-radius: 4px;
+        color: #495057
+    }
+}

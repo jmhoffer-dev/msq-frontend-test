@@ -1,0 +1,213 @@
+{
+  "storeData": [
+    {
+      "id": "47a371d8-5d7a-42bd-8187-8ed518379c9d",
+      "company_name": "Mybuzz",
+      "min_order": 394,
+      "min_reorder": 99,
+      "is_favorite": true,
+      "url": "../public/assets/04-r.png",
+      "alt": "implement compelling platforms"
+  
+    },
+    {
+      "id": "ab83fabf-27dd-499b-a555-541f44a3a6e2",
+      "company_name": "Tagchat is the best company",
+      "min_order": 0,
+      "min_reorder": 164,
+      "is_favorite": true,
+      "url": "../public/assets/04-r_2.png",
+      "alt": "enhance best-of-breed synergies"
+    },
+    {
+      "id": "f492b7b5-ed57-4c81-b275-cf9e8a358099",
+      "company_name": "Oyondu",
+      "min_order": 798,
+      "min_reorder": 757,
+      "is_favorite": true,
+      "url": "../public/assets/04-r_3.png",
+      "alt": "generate customized experiences"
+    },
+    {
+      "id": "f3800057-d542-470a-a146-d0a5e4babd41",
+      "company_name": "Skyba",
+      "min_order": 23,
+      "min_reorder": 637,
+      "is_favorite": false,
+      "url": "./assets/04-r_4.png",
+      "alt": "aggregate user-centric solutions"
+    },
+    {
+      "id": "1393bbd7-6c11-4c5c-92e5-005f11bab5c4",
+      "company_name": "Browsecat",
+      "min_order": 307,
+      "min_reorder": 199,
+      "is_favorite": true,
+      "url": "./assets/04-r_5.png",
+      "alt": "innovate enterprise synergies"
+    },
+    {
+      "id": "f3670846-945e-4360-a797-fd2239fca031",
+      "company_name": "Abata",
+      "min_order": 444,
+      "min_reorder": 234,
+      "is_favorite": false,
+      "url": "./assets/04-r_6.png",
+      "alt": "brand sticky experiences"
+    },
+    {
+      "id": "eb8e5344-3e06-4d0b-b041-00f73f00f2d9",
+      "company_name": "Reallinks",
+      "min_order": 0,
+      "min_reorder": 291,
+      "is_favorite": true,
+
+          "url": "./assets/04-r_7.png",
+          "alt": "deploy intuitive action-items"
+
+    },
+    {
+      "id": "6498971a-b7fe-4167-ac94-e79dbb31f289",
+      "company_name": "Trudeo",
+      "min_order": 712,
+      "min_reorder": 51,
+      "is_favorite": false,
+
+          "url": "./assets/04-r_8.png",
+          "alt": null
+
+    },
+    {
+      "id": "e58a2947-7cb9-418c-b302-1ea21ffcf920",
+      "company_name": "Blogtags",
+      "min_order": 15,
+      "min_reorder": 221,
+      "is_favorite": false,
+ 
+          "url": "./assets/04-r_9.png",
+          "alt": "scale 24/7 partnerships"
+ 
+    },
+    {
+      "id": "1efea844-b71b-4829-96c6-9ff885d68666",
+      "company_name": "Wikivu",
+      "min_order": 76,
+      "min_reorder": 211,
+      "is_favorite": true,
+    
+          "url": "./assets/04-r_10.png",
+          "alt": "facilitate magnetic systems"
+   
+    },
+    {
+      "id": "405696aa-3584-46bf-99e2-5e4ce6770fc8",
+      "company_name": "Ntag",
+      "min_order": 590,
+      "min_reorder": 114,
+      "is_favorite": true,
+      
+          "url": "./assets/04-r_11.png",
+          "alt": "mesh one-to-one niches"
+    
+    },
+    {
+      "id": "00cbae8f-dacd-4df3-b8e0-9f5d7f9f5732",
+      "company_name": "Tagtune",
+      "min_order": 94,
+      "min_reorder": 789,
+      "is_favorite": true,
+    
+          "url": "./assets/04-r_12.png",
+          "alt": "e-enable clicks-and-mortar partnerships"
+    
+    },
+    {
+      "id": "2448811c-1bda-40ad-9385-62ffff169bba",
+      "company_name": "Kanoodle",
+      "min_order": 332,
+      "min_reorder": 721,
+      "is_favorite": false,
+    
+          "url": "./assets/04-r_13.png",
+          "alt": "enhance cross-media e-business"
+   
+    },
+    {
+      "id": "058e8f48-5a5c-4657-b6d4-179e93c8245e",
+      "company_name": "Innotype",
+      "min_order": 282,
+      "min_reorder": 372,
+      "is_favorite": true,
+     
+          "url": "./assets/04-r_14.png",
+          "alt": "embrace bleeding-edge action-items"
+    
+    },
+    {
+      "id": "dff7458a-edcd-4b44-817e-cf10537dcc10",
+      "company_name": "Jetwire",
+      "min_order": 484,
+      "min_reorder": 228,
+      "is_favorite": false,
+   
+          "url": "./assets/04-r_15.png",
+          "alt": "transform frictionless content"
+    
+    },
+    {
+      "id": "e4e6a705-c2e4-4761-9515-421dcc13afda",
+      "company_name": "Thoughtworks",
+      "min_order": 277,
+      "min_reorder": null,
+      "is_favorite": false,
+    
+          "url": "./assets/04-r_16.png",
+          "alt": "mesh impactful partnerships"
+   
+    },
+    {
+      "id": "2448811c-1bda-40ad-9385-62ffff169bba",
+      "company_name": "Michigan ELite Store 2",
+      "min_order": 332,
+      "min_reorder": 721,
+      "is_favorite": false,
+    
+          "url": "./assets/04-r_17.png",
+          "alt": "enhance cross-media e-business"
+     
+    },
+    {
+      "id": "058e8f48-5a5c-4657-b6d4-179e93c8245e",
+      "company_name": "Eyore Goes to Piglet",
+      "min_order": 50,
+      "min_reorder": 372,
+      "is_favorite": true,
+     
+          "url": "./assets/04-r_18.png",
+          "alt": "embrace bleeding-edge action-items"
+     
+    },
+    {
+      "id": "dff7458a-edcd-4b44-817e-cf10537dcc10",
+      "company_name": "Jetwired Ahead",
+      "min_order": 50,
+      "min_reorder": 228,
+      "is_favorite": false,
+      
+          "url": "./assets/04-r_19.png",
+          "alt": "transform frictionless content"
+      
+    },
+    {
+      "id": "e4e6a705-c2e4-4761-9515-421dcc13afda",
+      "company_name": "Silly Names",
+      "min_order": 277,
+      "min_reorder": null,
+      "is_favorite": false,
+    
+          "url": "./assets/04-r_20.png",
+          "alt": "mesh impactful partnerships"
+    
+    }
+  ]
+}

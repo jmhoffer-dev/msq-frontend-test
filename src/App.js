@@ -1,13 +1,20 @@
 import React from 'react';
-import './App.css';
-import './index.css';
 import { BrowserRouter } from 'react-router-dom'
+import ListItem from './components/ListItem';
+import Header from './components/Header';
+
+
 
 const App = () => {
   return (
     <div>
       <BrowserRouter>
-        <h1>Hello, world!</h1>
+        {
+          <div className="wrappingContainer">
+            <Header/>
+            <ListItem/>
+          </div>
+        }
       </BrowserRouter>
     </div>
   )
